@@ -1,8 +1,8 @@
 ### Hi there I'm Salih👋
 
-# I am an electrical and electronics engineer.
+#### I am an electrical and electronics engineer.
 
-# I am designing Backend using Java Spring Boot. I started using Spring Boot in 2021.
+#### I am designing Backend using Java Spring Boot. I started using Spring Boot in 2021.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selonilo)](https://github.com/anuraghazra/github-readme-stats) [![Salih's github stats](https://github-readme-stats.vercel.app/api?username=selonilo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
