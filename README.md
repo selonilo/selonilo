@@ -2,7 +2,7 @@
 
 #### I am an electrical and electronics engineer.
 
-#### I am designing Backend using Java Spring Boot. I started using Java Spring Boot from 2021. You can access my Spring boot backend projects from my github codes. Also i use python for my smart home projects and hobbies.
+#### I am designing Backend using Java Spring Boot. I started using Java Spring Boot from 2021. Also i use python for my smart home projects and hobbies. You can see my Java Spring Boot Backend projects, React Frontend Web projects, Raspberry Pi projects and Arduino projects from my github codes.
 
 
 <!--
