@@ -1,6 +1,6 @@
 ### Hi there I'm Salih👋
 
-#### I am an electrical and electronics engineer.
+#### I am an software engineer.
 
 #### I am designing Backend using Java Spring Boot. I started using Java Spring Boot from 2021. Also i use Python and C# for my smart home projects and hobbies. You can see my Java Spring Boot Backend projects, React Frontend Web projects, Raspberry Pi projects and Arduino projects from my github codes.
 
